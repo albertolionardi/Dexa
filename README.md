@@ -1,4 +1,4 @@
-# Toko Mini
+# Attendance System
 
 ## What is this?
 Dexa Full Stack Test.
